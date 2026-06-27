@@ -1,5 +1,5 @@
 baseURL = "https://blog.iraalulkar.com"
-languageCode = "en-us"
+locale = "en-us"
 title = "Ira's Blog"
 theme = "notrack"
 pagination.pagerSize = 4  # Posts per page, e.g. in the blog
@@ -17,14 +17,6 @@ mainSections = ["blog"]  # Section name of your blog (folder name)
 blogLatestHeading = "Thoughts"  # Heading above blog summary
 nBlogLatest = 4  # Number of blog post in summary
 
-# # [params.social]
-# github = "example"
-# linkedin = "example"
-# email = "example@example.com"
-# mastodon = "example"
-# rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
-# keybase = "example"
-
 [taxonomies]
 year = "year"
 month = "month"
@@ -33,3 +25,12 @@ categories = "categories"
 
 [permalinks]
   thoughts = "/thoughts/:year/:month/:slug"
+  writings = "/writings/:year/:month/:slug"
+
+# # [params.social]
+# github = "example"
+# linkedin = "example"
+# email = "example@example.com"
+# mastodon = "example"
+# rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
+# keybase = "example"
