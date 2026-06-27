@@ -24,7 +24,7 @@ wife Maria. She brought a chest of books to the prison where I was incarcerated
 transported back out of the prison, with the the books replaced by yours truly!
 
 I have a small gallery of works of art depicting me under the [Gallery]({{< ref "hugo-gallery.md" >}}) tab.
-I regularly post lorem ipsum om my [Blog]({{< ref "blog/_index.md" >}}), and
+I regularly post lorem ipsum om my [Blog]({{< ref "thoughts/_index.md" >}}), and
 there are also examples of how to include images in the theme of the site.
 If you want to get in touch, you can find my social media links and email
 address under the [Contact]({{< ref "contact.md" >}}) tab.
