@@ -1,5 +1,4 @@
 # want to redo the archive page
-# see if i can remove the links to categories and tags on all pages
 # add content to gallery
 # change around styling
 
@@ -8,10 +7,9 @@ locale = 'en-us'
 title = "Ira's Blog"
 theme = 'notrack'
 
-showTaxonomyLinks = false
-
 [params]
     author = "Ira Alulkar"
+    showTaxonomyLinks = false
 
 [taxonomies]
     category = "categories"
