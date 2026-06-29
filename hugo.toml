@@ -1,38 +1,36 @@
- baseURL = 'https://blog.iraalulkar.com/'
- locale = 'en-us'
- title = "Ira's Blog"
- theme = 'notrack'
+baseURL = 'https://blog.iraalulkar.com/'
+locale = 'en-us'
+title = "Ira's Blog"
+theme = 'notrack'
 
- showTaxonomyLinks = false
+showTaxonomyLinks = false
 
- # Explicitly define taxonomies (also makes it easy to add more later)
- [taxonomies]
-   category = "categories"
-   tag = "tags"
+[params]
+    author = "Ira Alulkar"
 
- # ── Main menu ──────────────────────────────────────────────────────────────
- # No `parent` field on any item = no hover dropdowns, just flat links
+[taxonomies]
+    category = "categories"
+    tag = "tags"
 
- [[menu.main]]
-   name   = "Writings"
-   url    = "/writings/"
-   weight = 10
+[[menu.main]]
+    name   = "Writings"
+    url    = "/writings/"
+    weight = 10
 
- [[menu.main]]
-   name   = "Thoughts"
-   url    = "/thoughts/"
-   weight = 20
+[[menu.main]]
+    name   = "Thoughts"
+    url    = "/thoughts/"
+    weight = 20
 
- [[menu.main]]
-   name   = "Categories"
-   url    = "/categories/"
-   weight = 30
+[[menu.main]]
+    name   = "Categories"
+    url    = "/categories/"
+    weight = 30
 
- [[menu.main]]
-   name   = "Tags"
-   url    = "/tags/"
-   weight = 40
-
+[[menu.main]]
+    name   = "Tags"
+    url    = "/tags/"
+    weight = 40
 
 # baseURL = "https://blog.iraalulkar.com"
 # locale = "en-us"

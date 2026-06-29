@@ -15,7 +15,7 @@ diplomat with experience from academia and government, having published a large
 number of books on international law, sometimes even being called the "father"
 of this field of study. I have experience working as a diplomat from serving as
 the Swedish Ambassador to France. For a more comprehensive list of my experience,
-see the [Resume]({{< ref "resume.md" >}}) tab.
+see the Resume tab.
 
 After having been wrongfully convicted of treason in the Netherlands and
 being handed a life sentence, I managed to escape with the help of my dear

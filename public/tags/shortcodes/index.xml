@@ -12,13 +12,61 @@
         
 
         
-        <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 00:03:27 -0400</lastBuildDate>
         
 
         
         <atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
         
 
+        
+            
+        <item>
+          <title>Picture Shortcode Test</title>
+          <link>http://localhost:1313/thoughts/id-modi/</link>
+          <pubDate>Thu, 04 Jun 2020 23:30:14 +0200</pubDate>
+          <guid>http://localhost:1313/thoughts/id-modi/</guid>
+          <description><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>Tempora Maxime</title>
+          <link>http://localhost:1313/thoughts/tempora-maxime/</link>
+          <pubDate>Thu, 04 Jun 2020 23:21:09 +0200</pubDate>
+          <guid>http://localhost:1313/thoughts/tempora-maxime/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>Lorem</title>
+          <link>http://localhost:1313/thoughts/lorem/</link>
+          <pubDate>Mon, 01 Jun 2020 16:09:23 +0200</pubDate>
+          <guid>http://localhost:1313/thoughts/lorem/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>Markdown Syntax Guide</title>
+          <link>http://localhost:1313/thoughts/markdown-syntax/</link>
+          <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+          <guid>http://localhost:1313/thoughts/markdown-syntax/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>Rich Content</title>
+          <link>http://localhost:1313/thoughts/rich-content/</link>
+          <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+          <guid>http://localhost:1313/thoughts/rich-content/</guid>
+          <description><!-- raw HTML omitted -->
+</description>
+        </item>
+            
         
     </channel>
 </rss>
