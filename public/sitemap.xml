@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.iraalulkar.com/</loc>
     <lastmod>2026-06-27T00:03:27-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writings/first-post/</loc>
+    <loc>https://blog.iraalulkar.com/writings/first-post/</loc>
     <lastmod>2026-06-27T00:03:27-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
+    <loc>https://blog.iraalulkar.com/tags/shortcodes/</loc>
     <lastmod>2026-06-27T00:03:27-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.iraalulkar.com/tags/</loc>
     <lastmod>2026-06-27T00:03:27-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writings/</loc>
+    <loc>https://blog.iraalulkar.com/writings/</loc>
     <lastmod>2026-06-26T23:59:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
+    <loc>https://blog.iraalulkar.com/thoughts/</loc>
     <lastmod>2020-06-04T23:15:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/_about/</loc>
+    <loc>https://blog.iraalulkar.com/_about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.iraalulkar.com/categories/</loc>
   </url>
 </urlset>
