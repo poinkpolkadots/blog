@@ -8,8 +8,6 @@ menu:
     weight: 1
 ---
 
-{{ <image float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/hugo-portrait.jpg" > }}
-
 Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
 diplomat with experience from academia and government, having published a large
 number of books on international law, sometimes even being called the "father"
