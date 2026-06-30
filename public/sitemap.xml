@@ -14,73 +14,12 @@
     <loc>http://localhost:1313/writings/</loc>
     <lastmod>2026-06-26T23:59:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/latin/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/lorem/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/medieval/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/picture/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/id-modi/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/theme/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ipsum/</loc>
-    <lastmod>2020-06-04T23:21:09+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/tempora-maxime/</loc>
-    <lastmod>2020-06-04T23:21:09+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/test-tag/</loc>
-    <lastmod>2020-06-04T23:21:09+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/thoughts/</loc>
     <lastmod>2020-06-04T23:15:33+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2020-06-01T16:16:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dolor/</loc>
-    <lastmod>2020-06-01T16:09:23+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/lorem/</loc>
-    <lastmod>2020-06-01T16:09:23+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/thoughts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

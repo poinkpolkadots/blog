@@ -10,6 +10,7 @@ theme = 'notrack'
 [params]
     author = "Ira Alulkar"
     showTaxonomyLinks = false
+    favicon = "crow-solid-full.svg"
 
 [taxonomies]
     category = "categories"
@@ -18,22 +19,22 @@ theme = 'notrack'
 [[menu.main]]
     name   = "Writings"
     url    = "/writings/"
-    weight = 10
+    weight = 2
 
 [[menu.main]]
     name   = "Thoughts"
     url    = "/thoughts/"
-    weight = 20
+    weight = 3
 
 [[menu.main]]
     name   = "Categories"
     url    = "/categories/"
-    weight = 30
+    weight = 4
 
 [[menu.main]]
     name   = "Tags"
     url    = "/tags/"
-    weight = 40
+    weight = 5
 
 # gallery code
 # ---
