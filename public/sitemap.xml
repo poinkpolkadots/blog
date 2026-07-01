@@ -5,13 +5,13 @@
     <loc>https://blog.iraalulkar.com/</loc>
     <lastmod>2026-07-01T11:35:55-04:00</lastmod>
   </url><url>
+    <loc>https://blog.iraalulkar.com/categories/</loc>
+    <lastmod>2026-07-01T11:35:55-04:00</lastmod>
+  </url><url>
     <loc>https://blog.iraalulkar.com/thoughts/first-thought/</loc>
     <lastmod>2026-07-01T11:35:55-04:00</lastmod>
   </url><url>
-    <loc>https://blog.iraalulkar.com/tags/short/</loc>
-    <lastmod>2026-07-01T11:35:55-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.iraalulkar.com/tags/</loc>
+    <loc>https://blog.iraalulkar.com/categories/short/</loc>
     <lastmod>2026-07-01T11:35:55-04:00</lastmod>
   </url><url>
     <loc>https://blog.iraalulkar.com/writings/</loc>
@@ -22,6 +22,6 @@
   </url><url>
     <loc>https://blog.iraalulkar.com/contact/</loc>
   </url><url>
-    <loc>https://blog.iraalulkar.com/categories/</loc>
+    <loc>https://blog.iraalulkar.com/tags/</loc>
   </url>
 </urlset>

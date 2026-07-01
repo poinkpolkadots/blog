@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ira&#39;s Blog</title>
-        <link>https://blog.iraalulkar.com/categories/</link>
+        <link>https://blog.iraalulkar.com/categories/short/</link>
         <description>Latest blog posts from Ira&#39;s Blog</description>
 
         
@@ -16,7 +16,7 @@
         
 
         
-        <atom:link href="https://blog.iraalulkar.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.iraalulkar.com/categories/short/index.xml" rel="self" type="application/rss+xml" />
         
 
         

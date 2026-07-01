@@ -1,7 +1,7 @@
 ---
 title: "First Thought"
 date: 2026-07-01T11:35:55-04:00
-tags: ["short"]
+categories: ["short"]
 ---
 
 I created this website because I wanted to share some of my thoughts on things with the whole wide web. I don't know how successful it's going to be, but I hope it will be moderately successful.
