@@ -6,21 +6,10 @@ menu:
     weight: 1
 ---
 
-Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
-diplomat with experience from academia and government, having published a large
-number of books on international law, sometimes even being called the "father"
-of this field of study. I have experience working as a diplomat from serving as
-the Swedish Ambassador to France. For a more comprehensive list of my experience,
-see the Resume tab.
+Hi, I'm Ira Alulkar. I created this blog to share my thoughts and ideas about things in my everyday life.
 
-After having been wrongfully convicted of treason in the Netherlands and
-being handed a life sentence, I managed to escape with the help of my dear
-wife Maria. She brought a chest of books to the prison where I was incarcerated
-(nothing out of the ordinary since I am an avid reader) which was then
-transported back out of the prison, with the the books replaced by yours truly!
+I've created this blog mainly for my own documentation purposes, but if you find anything useful on here, please let me know!
 
-I have a small gallery of works of art depicting me under the Gallery tab.
-I regularly post lorem ipsum on my Blog, and
-there are also examples of how to include images in the theme of the site.
-If you want to get in touch, you can find my social media links and email
-address under the Contact tab.
+The [thoughts](/thoughts) on this website are mainly just short musings about random things. I post longer articles on the [writings](/writings) tab.
+
+Look at my [contact page](/contact) to see more about me.

@@ -2,7 +2,7 @@
 title: ""
 menu:
   main:
-    name: "About"
+    name: "Contact"
     weight: 6
 ---
 
