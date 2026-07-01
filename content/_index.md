@@ -15,5 +15,5 @@ Look at my [contact page](/contact) to see more about me.
 I've created this blog mainly for my own documentation purposes, but if you find anything useful on here, please let me know!
 
 I wanted to share my thoughts on things with the whole wide web.
-I don't know how successful it's going to be, but I hope some people will enjoy it.
+I don't know how successful this is going to be, but I hope some people will enjoy it.
 I enjoy writing down my thoughts for myself, and I thought, why not share them here!
