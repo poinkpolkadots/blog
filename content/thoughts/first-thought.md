@@ -1,5 +1,6 @@
 ---
 title: "First Thought"
+date: 2026-07-01T11:35:55-04:00
 tags: ["short"]
 ---
 
