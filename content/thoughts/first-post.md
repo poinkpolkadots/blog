@@ -5,4 +5,4 @@ draft: false
 categories: ["short"]
 ---
 
-This is my first post. I wanted to create this blog to share some of my thoughts, but I haven't thought of anything yet.
+This is my first post. I wanted to create this blog to share some of my thoughts, but I haven't thought of anything worth posting yet.
