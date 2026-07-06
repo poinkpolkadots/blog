@@ -10,6 +10,10 @@ theme = 'notrack'
 [params]
     author = "Ira Alulkar"
     showTaxonomyLinks = false
+    #footer = """\
+    #    Look at my main <a href='https://iraalulkar.com>'>website</a>!\
+    #    Made with <a href='https://github.com/gevhaz/hugo-theme-notrack'>notrack</a>\
+    #    """
     favicon = "crow-solid-full.svg"
 
 [taxonomies]

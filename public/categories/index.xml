@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ira&#39;s Blog</title>
-        <link>https://blog.iraalulkar.com/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Latest blog posts from Ira&#39;s Blog</description>
 
         
@@ -16,16 +16,16 @@
         
 
         
-        <atom:link href="https://blog.iraalulkar.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
         
 
         
             
         <item>
           <title>First Post</title>
-          <link>https://blog.iraalulkar.com/thoughts/first-post/</link>
+          <link>http://localhost:1313/thoughts/first-post/</link>
           <pubDate>Fri, 03 Jul 2026 00:25:23 -0400</pubDate>
-          <guid>https://blog.iraalulkar.com/thoughts/first-post/</guid>
+          <guid>http://localhost:1313/thoughts/first-post/</guid>
           <description><!-- raw HTML omitted -->
 </description>
         </item>
