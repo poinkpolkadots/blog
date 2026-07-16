@@ -1,6 +1,7 @@
 ---
 title: "Choosing Products"
 date: 2026-07-16T11:47:53-04:00
+tags: ["shopping", "quality things"]
 draft: true
 ---
 
