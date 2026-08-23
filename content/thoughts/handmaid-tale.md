@@ -1,7 +1,7 @@
 ---
 title: "The Handmaid's Tale: Why So Dark?"
 date: 2026-07-10T19:48:53-04:00
-tags: ["TV"]
+tags: ["tv"]
 draft: true
 ---
 

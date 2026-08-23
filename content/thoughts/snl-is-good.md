@@ -2,7 +2,7 @@
 title: "SNL Is Good"
 date: 2026-07-25T18:01:40+05:30
 draft: true
-tags: ["comedy"]
+tags: ["tv", "comedy"]
 ---
 
 I've been watching SNL since I was probably too young to be watching SNL. Everyone says their favorite cast is the one that they grew up with, I grew up watching Kate McKinnon, Beck Bennett, Kyle Mooney, Aidy Bryant, Vanessa Bayer, and Melissa Villaseñor, to name a few (I know, I'm young hehe). During this time, when I was watching SNL re-runs on YouTube I would see people say "SNL sucks" or "SNL hasn't been good in decades".

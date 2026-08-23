@@ -2,6 +2,7 @@
 title: "Diverse Music"
 date: 2026-08-22T20:19:42-04:00
 draft: true
+tags: ["music"]
 ---
 
 I have a wide range of interests, music being one of them. I do think it's weird to say that "music" is one of my interests, but I can't think of any better way of saying it. I'm not interested in the history or compositions of one specific artist or genre, instead I'm interested in curating as wide and eclectic a taste in music as I can.

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed990cd7-4711-4ed5-b73f-e3c1f0d69256" name="Changes" comment="" />
+    <list default="true" id="ed990cd7-4711-4ed5-b73f-e3c1f0d69256" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/thoughts/diverse-music.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/thoughts/diverse-music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/thoughts/handmaid-tale.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/thoughts/handmaid-tale.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/thoughts/snl-is-good.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/thoughts/snl-is-good.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/thoughts/snl-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/thoughts/snl-list.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +99,7 @@
       <workItem from="1784483258731" duration="2856000" />
       <workItem from="1784568496219" duration="2424000" />
       <workItem from="1784982649402" duration="3748000" />
-      <workItem from="1787251213284" duration="5173000" />
+      <workItem from="1787251213284" duration="5252000" />
     </task>
     <servers />
   </component>
