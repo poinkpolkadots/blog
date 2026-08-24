@@ -1,7 +1,6 @@
 ---
 title: "First Post"
 date: 2026-07-03T00:25:23-04:00
-draft: false
 categories: ["short"]
 ---
 
