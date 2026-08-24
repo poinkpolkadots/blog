@@ -2,7 +2,6 @@
 title: "The Handmaid's Tale: Why So Dark?"
 date: 2026-07-10T19:48:53-04:00
 tags: ["tv"]
-draft: true
 ---
 
 I just started watching *The Handmaid's Tale* (not really, I started almost a year ago but stopped after 4 episodes). I like the almost sci-fi story and the chilling dystopia. There are just a few things stopping me from binging the entire show.

@@ -1,7 +1,6 @@
 ---
 title: "Procrastination"
 date: 2026-08-21T00:19:40+05:30
-draft: true
 ---
 
 In my experience, lots of people claim to be procrastinators who really aren't. This epidemic of false procrastinators makes it harder for us real-deal procrastinators to find help or a supportive community.

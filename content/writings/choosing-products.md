@@ -2,7 +2,6 @@
 title: "Choosing Products"
 date: 2026-07-16T11:47:53-04:00
 tags: ["shopping", "quality things"]
-draft: true
 ---
 
 I love buying things. Additionally, I love high quality products. I am frightened by the new rise of cheaply made products that have infiltrated our daily lives, as many others are, but I still remain hopeful. I think there are still outlets on this world where you can find quality products.

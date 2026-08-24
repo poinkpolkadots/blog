@@ -1,7 +1,6 @@
 ---
 title: "Diverse Music"
 date: 2026-08-22T20:19:42-04:00
-draft: true
 tags: ["music"]
 ---
 
