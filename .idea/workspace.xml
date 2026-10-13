@@ -5,48 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed990cd7-4711-4ed5-b73f-e3c1f0d69256" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/thoughts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/thoughts/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/thoughts/disobedience.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/thoughts/disobedience.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/writings/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/writings/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/short/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/short/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/short/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/short/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/short/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/short/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/music/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/music/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/music/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/music/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/music/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/quality-things/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/quality-things/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/quality-things/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/quality-things/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/quality-things/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/quality-things/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/shopping/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shopping/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/shopping/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shopping/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/shopping/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shopping/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tv/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tv/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tv/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tv/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tv/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/thoughts/diverse-music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/thoughts/diverse-music/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/thoughts/first-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/thoughts/first-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/thoughts/handmaid-tale/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/thoughts/handmaid-tale/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/thoughts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/thoughts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/thoughts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/thoughts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/thoughts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/thoughts/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/writings/choosing-products/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/writings/choosing-products/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/writings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/writings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/writings/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/writings/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/writings/learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/writings/learning/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/writings/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/writings/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/writings/procrastination/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/writings/procrastination/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/writings/choosing-products.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/writings/choosing-products.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +102,7 @@
       <workItem from="1790475788400" duration="86000" />
       <workItem from="1790475893863" duration="5642000" />
       <workItem from="1791393588089" duration="45000" />
-      <workItem from="1791393906734" duration="7362000" />
+      <workItem from="1791393906734" duration="8159000" />
     </task>
     <servers />
   </component>
