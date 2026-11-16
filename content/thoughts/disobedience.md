@@ -2,7 +2,7 @@
 title: "Disobedience"
 date: 2026-09-13T22:42:37-04:00
 draft: true
-tags: ["reviews"]
+tags: ["reviews", "cinema"]
 ---
 
 A couple of years ago I first watched the movie *Disobedience* (2017), directed by Sebastián Lello because I heard it was a sweet, heartbreaking story with a really good atmosphere. I really enjoyed watching it and I think it's one of the best movies I've watched recently (although I say that about a lot of things, so take that lightly).
